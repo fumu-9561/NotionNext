@@ -19,8 +19,8 @@ const CONFIG = {
   HEXO_MENU_CATEGORY: true, // 显示分类
   HEXO_MENU_TAG: true, // 显示标签
   HEXO_MENU_ARCHIVE: true, // 显示归档
-  HEXO_MENU_SEARCH: true, // 显示搜索
-  HEXO_MENU_RANDOM: true, // 显示随机跳转按钮
+  HEXO_MENU_SEARCH: false, // 显示搜索
+  HEXO_MENU_RANDOM: false, // 显示随机跳转按钮
 
   HEXO_POST_LIST_COVER: true, // 列表显示文章封面
   HEXO_POST_LIST_COVER_HOVER_ENLARGE: false, // 列表鼠标悬停放大
@@ -42,6 +42,6 @@ const CONFIG = {
   HEXO_WIDGET_DARK_MODE: true, // 夜间模式
   HEXO_WIDGET_TOC: true, // 移动端悬浮目录
 
-  HEXO_THEME_COLOR: '#928CEE' // 主题色配置（默认为 #928CEE）
+  HEXO_THEME_COLOR: '#AEEEEE' // 主题色配置（默认为 #928CEE）
 }
 export default CONFIG
